@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "513096746101",
+    "firebase_url": "https://restauranguiden.firebaseio.com",
+    "project_id": "restauranguiden",
+    "storage_bucket": "restauranguiden.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513096746101:android:409d0b0f8dd23302",
+        "android_client_info": {
+          "package_name": "com.example.videocoach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513096746101-va31gd0365p2j9ivb4g5ou09osm4h9mu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.videocoach",
+            "certificate_hash": "77a65ad807a723eb54dd1a0f2182c804d4a49c29"
+          }
+        },
+        {
+          "client_id": "513096746101-llp92q94dp4cev00kmatfcuh609s9rtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxaik5uBGnSHdxnokzNeV-cuUTsgs-PEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513096746101-llp92q94dp4cev00kmatfcuh609s9rtj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
